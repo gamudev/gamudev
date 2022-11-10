@@ -4,7 +4,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/gamudev?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/gamudev?style=social)
 
-Graduado en Ingeniería del Software por la Universidad Politécnica de Madrid, desarrollo mi actividad profesional desde más de 4 años en empresas como NTT Data y Telefónica.
+Graduado en Ingeniería del Software por la Universidad Politécnica de Madrid, desarrollo mi actividad profesional desde más de 4 años en las empresas NTT Data, Telefónica y Avalon.
 
 ## Tecnologías:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
