@@ -1,14 +1,14 @@
-<h1>Hi, I'm Javier García Muñoz 👋</h1>
-<h3>A passionate full-stack developer from Spain. Graduated in Software Engineering from the Polytechnic University of Madrid, I have been developing my professional activity for more than 4 years at NTT Data, Telefónica and Avalon.</h3>
+<h3>Hi, I'm Javier García Muñoz 👋</h3>
+A passionate full-stack developer from Spain. Graduated in Software Engineering from the Polytechnic University of Madrid, I have been developing my professional activity for more than 4 years at NTT Data, Telefónica and Avalon.
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gamudev?style=social)](https://twitter.com/gamudev)
 ![GitHub Followers](https://img.shields.io/github/followers/gamudev?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/gamudev?style=social)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
