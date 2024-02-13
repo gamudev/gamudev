@@ -1,5 +1,5 @@
-<h3>Hi, I'm Javier García Muñoz 👋</h3>
-A passionate full-stack developer from Spain. Graduated in Software Engineering from the Polytechnic University of Madrid, I have been developing my professional activity for more than 4 years at NTT Data, Telefónica and Avalon.
+<h3>Hi, I'm GAMUDEV 👋</h3>
+A passionate full-stack developer from Spain. Graduated in Software Engineering from the Polytechnic University of Madrid, I have been developing my professional activity for more than 4 years.
 
 <h4 align="left">Connect with me:</h4>
 
